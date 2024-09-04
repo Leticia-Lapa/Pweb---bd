@@ -1,5 +1,5 @@
-Create database pw;
-use pw;
+Create database bd_cafe;
+use bd_cafe;
 
 create table tb_funcionario (
 cd_funcionario int primary key,
